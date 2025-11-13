@@ -1,1 +1,8 @@
 port: "3000"
+
+db:
+  host: "localhost"
+  port: 5432
+  username: "agolubev"
+  dbname: "rest_api_gin"
+  sslmode: "disable"
